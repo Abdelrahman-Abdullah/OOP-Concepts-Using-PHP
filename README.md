@@ -9,15 +9,13 @@
             <td> 
               <ul>  
                      <li> Introduction To OOP </li>
-                     <li> What is thr Class </li>
-                     <li> What is thr Object </li>
-                     <li> What is thr Constructor </li>
+                     <li> What is the Class ? </li>
+                     <li> What is the Object ? </li>
+                     <li> What is the Constructor ? </li>
                  </ul>
               </td>
            <td> 
-              <ul>
-                <li> <a href="OOP Introduction.pdf"> <b> PDF </b></a> </li>
-               </ul>
+                  <li> <a href="OOP Introduction.pdf"> <b> Introduction PDF </b></a> </li>
             </td>
              </tr> 
          <tr>
