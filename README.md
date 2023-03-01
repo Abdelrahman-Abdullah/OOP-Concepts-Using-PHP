@@ -18,5 +18,17 @@
                   <li> <a href="OOP Introduction.pdf"> <b> Introduction PDF </b></a> </li>
             </td>
          <tr>
+                     <tr>
+            <td> 
+              <ul>  
+                     <li> Encapsulation </li>
+                     <li> Access Modifier </li>
+                     <li> Setter & Getter </li>
+                 </ul>
+           </td> 
+            <td>
+                  <li> <a href="Encapsulation.pdf"> <b> Introduction PDF </b></a> </li>
+            </td>
+         <tr>
          
 </table>
