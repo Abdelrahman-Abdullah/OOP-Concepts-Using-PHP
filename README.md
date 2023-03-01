@@ -27,7 +27,7 @@
                  </ul>
            </td> 
             <td>
-                  <li> <a href="Encapsulation.pdf"> <b> Introduction PDF </b></a> </li>
+                  <li> <a href="Encapsulation.pdf"> <b> Encapsulation PDF </b></a> </li>
             </td>
          <tr>
          
