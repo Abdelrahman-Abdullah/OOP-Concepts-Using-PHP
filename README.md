@@ -18,7 +18,7 @@
                   <li> <a href="OOP Introduction.pdf"> <b> Introduction PDF </b></a> </li>
                   
             </td>
-         <tr>
+         </tr>
          <tr>
             <td> 
               <ul>  
@@ -31,6 +31,6 @@
                   <li> <a href="Encapsulation.pdf"> <b> Encapsulation PDF </b></a> </li>
 
             </td>
-         <tr>
+         </tr>
          
 </table>
