@@ -16,7 +16,7 @@
            </td> 
             <td>
                   <li> <a href="OOP Introduction.pdf"> <b> Introduction PDF </b></a> </li>
-                  <li> <a href=https://drive.google.com/file/d/1E0ZbfRb9iv-ot1BGmU6GkGWDWl61QnHt/view?usp=sharing"> <b> Video</b></a> </li>
+                  <li> <a href="https://drive.google.com/file/d/1E0ZbfRb9iv-ot1BGmU6GkGWDWl61QnHt/view?usp=sharing"> <b> Video</b></a> </li>
                   
             </td>
          <tr>
@@ -30,7 +30,7 @@
            </td> 
             <td>
                   <li> <a href="Encapsulation.pdf"> <b> Encapsulation PDF </b></a> </li>
-                  <li> <a href=https://drive.google.com/file/d/1E0ZbfRb9iv-ot1BGmU6GkGWDWl61QnHt/view?usp=sharing"> <b> Video From 1:03:00</b></a> </li>
+                  <li> <a href="https://drive.google.com/file/d/1E0ZbfRb9iv-ot1BGmU6GkGWDWl61QnHt/view?usp=sharing"> <b> Video From 1:03:00</b></a> </li>
 
             </td>
          <tr>
