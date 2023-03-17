@@ -52,4 +52,20 @@
              </ul>
       </td>
   </tr>
+  <tr>
+    <td>
+            <ul>
+                    <li> Abstraction </li>
+                    <li> Interface </li>
+                    <li> Abstract Class </li>
+                    <li> Polymorphism  </li>
+            </ul>
+     </td>
+     <td>
+             <ul>
+                     <li> <a href="Abstraction-And-Polymorphism.pdf"> <b> Abstraction & Polymorphism PDF </b></a>  </li>
+                     <li> <a href="https://www.youtube.com/watch?v=GZ60nMyCzCE"> <b>Youtube Video  </b></a> </li>
+             </ul>
+      </td>
+  </tr>
 </table>
